@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1386051159 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/main.cpp
+	"RosalilaGraphics/RosalilaGraphics.h"
+	"RosalilaInputs/RosalilaInputs.h"
+	"RosalilaSound/RosalilaSound.h"
+	<iostream>
+
+1386049371 /home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/RosalilaGraphics.h
+	<iostream>
+	<list>
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"TinyXml/tinyxml.h"
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<stdio.h>
+	"RosalilaGraphics/smpeg.h"
+	"RosalilaGraphics/Image.h"
+	"RosalilaGraphics/Timer.h"
+	"RosalilaGraphics/Explosion.h"
+	"RosalilaGraphics/Cube.h"
+	"RosalilaGraphics/Object3D.h"
+	"RosalilaUtility/RosalilaUtility.h"
+	<iostream>
+	<fstream>
+
+1386049371 /home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaInputs/RosalilaInputs.h
+	"RosalilaInputs/Boton.h"
+	<RosalilaAI/RosalilaAI.h>
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaAI/Automata.cpp
+	"RosalilaAI/Automata.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaAI/Estado.cpp
+	"RosalilaAI/Estado.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaAI/RosalilaAI.cpp
+	"RosalilaAI/RosalilaAI.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaAI/Transicion.cpp
+	"RosalilaAI/Transicion.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Animation.cpp
+	"RosalilaGraphics/Animation.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Cube.cpp
+	"RosalilaGraphics/Cube.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Explosion.cpp
+	"RosalilaGraphics/Explosion.h"
+
+1371611335 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Explosion2.cpp
+	"RosalilaGraphics/Explosion2.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Image.cpp
+	"RosalilaGraphics/RosalilaGraphics.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Object3D.cpp
+	"RosalilaGraphics/Object3D.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/RosalilaGraphics.cpp
+	"RosalilaGraphics/RosalilaGraphics.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaGraphics/Timer.cpp
+	"SDL/SDL.h"
+	"RosalilaGraphics/Timer.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaInputs/Boton.cpp
+	"RosalilaInputs/Boton.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaInputs/Receiver.cpp
+	"RosalilaInputs/RosalilaInputs.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaInputs/RosalilaInputs.cpp
+	"RosalilaInputs/RosalilaInputs.h"
+	<sstream>
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/Elemento.cpp
+	"RosalilaMenus/Elemento.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuBarra.cpp
+	"RosalilaMenus/MenuBarra.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuBoton.cpp
+	"RosalilaMenus/MenuBoton.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuCharSelect.cpp
+	"RosalilaMenus/MenuCharSelect.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuContenedor.cpp
+	"RosalilaMenus/MenuContenedor.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuGallery.cpp
+	"RosalilaMenus/MenuGallery.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuImagen.cpp
+	"RosalilaMenus/MenuImagen.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuLista.cpp
+	"RosalilaMenus/MenuLista.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaMenus/MenuTexto.cpp
+	"RosalilaMenus/MenuTexto.h"
+
+1386049430 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaNetwork/RosalilaNetwork.cpp
+	"RosalilaNetwork/RosalilaNetwork.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaSound/RosalilaSound.cpp
+	"RosalilaSound.h"
+
+1386049371 /home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaSound/RosalilaSound.h
+	<string>
+	<vector>
+	<iostream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"RosalilaUtility/RosalilaUtility.h"
+	<map>
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/RosalilaUtility/RosalilaUtility.cpp
+	"RosalilaUtility/RosalilaUtility.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/TinyXml/tinystr.cpp
+	"TinyXml/tinystr.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/TinyXml/tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"TinyXml/tinyxml.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/TinyXml/tinyxmlerror.cpp
+	"TinyXml/tinyxml.h"
+
+1386049371 source:/home/turupawn/Projects/Codeblocks/RosalilaEngineDemo/Rosalila/TinyXml/tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"TinyXml/tinyxml.h"
+	<windows.h>
+
