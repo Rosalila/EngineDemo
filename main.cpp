@@ -19,19 +19,19 @@ int main()
 
     while(true)
     {
-        if(receiver->IsKeyPressed(SDLK_DOWN))
+        if(receiver->isKeyPressed(SDLK_DOWN))
         {
             sound->playSound("test sound");
             y++;
-        }else if(receiver->IsKeyPressed(SDLK_UP))
+        }else if(receiver->isKeyPressed(SDLK_UP))
         {
             sound->playSound("test sound");
             y--;
-        }else if(receiver->IsKeyPressed(SDLK_RIGHT))
+        }else if(receiver->isKeyPressed(SDLK_RIGHT))
         {
             sound->playSound("test sound");
             x++;
-        }else if(receiver->IsKeyPressed(SDLK_LEFT))
+        }else if(receiver->isKeyPressed(SDLK_LEFT))
         {
             sound->playSound("test sound");
             x--;

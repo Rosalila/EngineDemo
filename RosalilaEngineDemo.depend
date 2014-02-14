@@ -140,3 +140,9 @@
 	"TinyXml/tinyxml.h"
 	<windows.h>
 
+1392403168 source:/home/turupawn/testa/EngineDemo/main.cpp
+	"RosalilaGraphics/RosalilaGraphics.h"
+	"RosalilaInputs/RosalilaInputs.h"
+	"RosalilaSound/RosalilaSound.h"
+	<iostream>
+
